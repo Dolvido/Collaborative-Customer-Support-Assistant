@@ -1,0 +1,23 @@
+logging:
+  level: DEBUG
+  file: logs/ccsa.log
+
+intent_model:
+  type: ollama
+  path: ../models/intent_model
+
+context_model:
+  type: ollama
+  path: ../models/context_model
+
+response_model:
+  type: ollama
+  path: ../models/response_model
+
+knowledge_model:
+  type: ollama
+  path: ../models/knowledge_model
+
+sentiment_model:
+  type: ollama
+  path: ../models/sentiment_model

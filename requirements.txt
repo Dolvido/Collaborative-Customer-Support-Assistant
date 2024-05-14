@@ -1,0 +1,10 @@
+langchain
+pandas
+numpy
+scikit-learn
+flask
+pytest
+transformers
+torch
+nltk
+pyyaml
